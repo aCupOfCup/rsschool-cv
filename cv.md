@@ -55,3 +55,15 @@ function solution(number){
 ```
 
 *********
+
+<ins>_Courses:_</ins>
+* **English language courses** - Center of foreign languages Lingvo Academy
+* **"Head First JavaScript Programming(A Brain-Friendly Guide)"** - _Eric Freeman & Elizabeth Robson_
+* **React - way of Samurai** - _[IT-Kamasutra Youtube channel](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&index=1)_
+  
+*********
+
+<ins>_Languages:_</ins>  
+* Ukrainian: Native
+* Russian: Native
+* English: Intermediate
